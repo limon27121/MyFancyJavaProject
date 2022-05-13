@@ -20,7 +20,6 @@ for (row=0; row<n1; row++)
     }
  System.out.println();
 }
- 
- 
+  Factory Pattern
 }   
 }  
